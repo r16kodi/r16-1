@@ -2039,7 +2039,7 @@ http://www.dji.com/flysafe/geo-system"</string>
     <string name="gs_enable_mult_flight_mode_dialog_right_btn">Sim</string>
     <string name="gs_enable_mult_flight_mode_dialog_title">Activar o botão de troca de modos de vôo?</string>
     <string name="gs_error_aircraft_in_no_fly_zone">O drone está numa zona de vôo proibido.</string>
-    <string name="gs_error_aircraft_not_in_the_air">Take off and retry this function.</string>
+    <string name="gs_error_aircraft_not_in_the_air">Levanta vôo e tenta de novo esta função.</string>
     <string name="gs_error_attitude_too_height">Aircraft altitude too high.</string>
     <string name="gs_error_attitude_too_low">Aircraft altitude too low.</string>
     <string name="gs_error_bad_rtk_signal">Weak RTK Signal</string>
