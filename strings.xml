@@ -848,7 +848,7 @@
     <string name="flight_record_distance_desc">DISTANCIA</string>
     <string name="flight_record_distance_ft_format">%sft</string>
     <string name="flight_record_distance_m_format">%sm</string>
-    <string name="flight_record_favour_desc">Favourito</string
+    <string name="flight_record_favour_desc">Favourito</string>
     <string name="flight_record_flight_times">Tempo de Voo</string>
     <string name="flight_record_footprints">PEGADAS</string>
     <string name="flight_record_fragment_data_title">DADOS DE VOO(%s)</string>
