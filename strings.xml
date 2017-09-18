@@ -1655,7 +1655,7 @@
     <string name="fpv_led_system_reconstruction">Dispositivo alterado</string>
     <string name="fpv_led_test">Auto-verificação</string> 
     <string name="fpv_led_usb_is_valid">Activar Modo USB</string>
-    <string name="fpv_leftmenu_cancel_gohome">Cancelar Voltar a casa</string    
+    <string name="fpv_leftmenu_cancel_gohome">Cancelar Voltar a casa</string>    
     <string name="fpv_leftmenu_cancel_gohome_failed">Cancelar Voltar a Casa falhou</string>
     <string name="fpv_leftmenu_cancel_gohome_success">Voltar a casa Cancelado</string>
     <string name="fpv_leftmenu_cgh_tip">Clica para cancelar voltar para casa</string>
