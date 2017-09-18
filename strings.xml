@@ -848,7 +848,7 @@
     <string name="flight_record_distance_desc">DISTANCIA</string>
     <string name="flight_record_distance_ft_format">%sft</string>
     <string name="flight_record_distance_m_format">%sm</string>
-    <string name="flight_record_favour_desc">Favourito</string>
+    <string name="flight_record_favour_desc">Favourito</string
     <string name="flight_record_flight_times">Tempo de Voo</string>
     <string name="flight_record_footprints">PEGADAS</string>
     <string name="flight_record_fragment_data_title">DADOS DE VOO(%s)</string>
@@ -869,7 +869,7 @@
     <string name="flight_record_moment_desc">MEMONT</string>
     <string name="flight_record_na">N/A</string>
     <string name="flight_record_nogps">SEM GPS</string>
-	<string name="flight_record_none">Sem Registo de Voo</string>
+    <string name="flight_record_none">Sem Registo de Voo</string>
     <string name="flight_record_phone_list">LISTA DE VOOS</string>
     <string name="flight_record_pilot_level">Nível do Piloto</string>
     <string name="flight_record_player_distance">DISTANCIA</string>
@@ -1072,7 +1072,7 @@
     <string name="fpv_adv_setting_menu_f_mode_m_dialog_desc">Manual Ajuste</string>
     <string name="fpv_adv_setting_menu_f_mode_m_dialog_title">Disclaimer</string>
     <string name="fpv_advanced_go_home_execute_go_home_desc">Avançado RTH Agora</string>
-	<string name="fpv_advanced_go_home_execute_go_home_title">Avançado RTH Agora</string>
+    <string name="fpv_advanced_go_home_execute_go_home_title">Avançado RTH Agora</string>
     <string name="fpv_advanced_go_home_hovering_at_safe_point">Colocar Auto RTH em 10 Segundos</string>
     <string name="fpv_advanced_go_home_planning_desc">Planejamento de rota avançada RTH </string>
     <string name="fpv_advanced_go_home_planning_title">Planejamento de rota avançada RTH </string>
@@ -1115,7 +1115,7 @@
     <string name="fpv_camera_filter_m31">Beach</string>
     <string name="fpv_camera_filter_neutral">D-Log</string>
     <string name="fpv_camera_filter_none">None</string>
-	<string name="fpv_camera_filter_postrize">Postrize</string>
+    <string name="fpv_camera_filter_postrize">Postrize</string>
     <string name="fpv_camera_filter_prismo">Classic</string>
     <string name="fpv_camera_filter_solarize">Solarize</string>
     <string name="fpv_camera_filter_visionx">TrueColor</string>
@@ -1234,7 +1234,7 @@
     <string name="fpv_checklist_status_good">Bom</string>
     <string name="fpv_checklist_status_poor">Fraco</string>
     <string name="fpv_checklist_status_poor_desc">Muitas interferências wifi. Voa com cuidado.</string>
-	<string name="fpv_checklist_struct_check">Verificar estrutura</string>
+    <string name="fpv_checklist_struct_check">Verificar estrutura</string>
     <string name="fpv_checklist_struct_check_action">Fazer manutenção agora</string>
     <string name="fpv_checklist_struct_check_done">Manutenção completa</string>
     <string name="fpv_checklist_struct_check_guide_content">"1. Verifica se o amortecedor no controlador de voo tem desgaste e deformidades graves. 
@@ -1283,7 +1283,7 @@
     <string name="fpv_errorpop_flightaction_serious_low_voltage_landing">Voltagem excecivamente fraca. A retornar a casa</string>
     <string name="fpv_errorpop_flightaction_smart_power_gohome">Energia fraca. A voltar a casa</string>
     <string name="fpv_errorpop_flightaction_smart_power_landing">Voltagem excecivamente fraca. A retornar a casa</string>
-	<string name="fpv_errorpop_flightaction_too_close_auto_landing">O drone está perto do ponto de origem. O voltar a casa está no modo automático agora.</string>
+    <string name="fpv_errorpop_flightaction_too_close_auto_landing">O drone está perto do ponto de origem. O voltar a casa está no modo automático agora.</string>
     <string name="fpv_errorpop_flightaction_too_far_auto_landing">O drone está longe do ponto de origem. O voltar a casa está no modo automático agora.</string>
     <string name="fpv_errorpop_flightaction_warning_power_gohome">Energia fraca. o drone irá voltar a casa</string>
     <string name="fpv_errorpop_flightaction_warning_power_landing">Energia excecivamente fraca. Drone a aterrar</string>
@@ -1363,7 +1363,7 @@
     <string name="fpv_flight_mode_failed_by_simulator">Esta função não pode ser usada no simulador</string>
     <string name="fpv_flight_mode_gesture">GESTOS</string>
     <string name="fpv_flight_mode_normal">NORMAL</string>
-	    <string name="fpv_flight_mode_not_pmode">Descolar no Modo P</string>
+    <string name="fpv_flight_mode_not_pmode">Descolar no Modo P</string>
     <string name="fpv_flight_mode_novice_tip">Modos de voo inteligentes desligados no modo de pricipiante</string>
     <string name="fpv_flight_mode_patti_tip">Posição de GPS com falhas. Cuidado a voar.</string>
     <string name="fpv_flight_mode_point">Voar</string>
@@ -1471,7 +1471,7 @@
     <string name="fpv_gensetting_liveshare">Video em Directo</string>
     <string name="fpv_gensetting_lock_gimbal_shotting">Bloquear a gimbal quando captura</string>
     <string name="fpv_gensetting_lowflight_desc">Limite de baixa altitude</string>
-	    <string name="fpv_gensetting_lowflight_toggle_desc">Altitude Minima</string>
+    <string name="fpv_gensetting_lowflight_toggle_desc">Altitude Minima</string>
     <string name="fpv_gensetting_map">Mapa</string>
     <string name="fpv_gensetting_metric">M</string>
     <string name="fpv_gensetting_other">Outro</string>
@@ -1585,7 +1585,7 @@
     <string name="fpv_hd_output_switch">HDMI/SDI Video Output</string>
     <string name="fpv_hd_pip">Imagem-em-imagem para HDMI/SDI</string>
     <string name="fpv_hd_pip_desc">Imagem-em-imagem </string>
-	<string name="fpv_hd_pip_left_bottom">Inferior esquerdo</string>
+    <string name="fpv_hd_pip_left_bottom">Inferior esquerdo</string>
     <string name="fpv_hd_pip_left_top">Superior esqurdo</string>
     <string name="fpv_hd_pip_right_bottom">inferior direito</string>
     <string name="fpv_hd_pip_right_top">Superior direito</string>
@@ -1618,7 +1618,7 @@
     <string name="fpv_lb2_z15_auto_calc_dlg_content">Verifica se o drone está nivelado. Clica OK para a auto calibração começar.</string>
     <string name="fpv_lb2_z15_setting">Definições Gimbal</string>
     <string name="fpv_led_atti">ATTI</string>
-	<string name="fpv_led_battery_error">Aviso estado crítico da bateria</string>
+    <string name="fpv_led_battery_error">Aviso estado crítico da bateria</string>
     <string name="fpv_led_battery_voltage_error">Voltagem da bateria excecivamente baixa</string>
     <string name="fpv_led_battery_voltage_warning">Baixa voltagem</string>
     <string name="fpv_led_battery_warning">Baixa voltagem</string>
@@ -1647,13 +1647,13 @@
     <string name="fpv_led_recorder_error">Dados</string>
     <string name="fpv_led_sensor_temp_not_ready">Drone está a aquecer</string>
     <string name="fpv_led_set_course_lock">Definir Course Lock</string>
-	<string name="fpv_led_set_fly_limit">Perto ou dentro de uma zona restrita</string>
+    <string name="fpv_led_set_fly_limit">Perto ou dentro de uma zona restrita</string>
     <string name="fpv_led_set_home">Definir Ponto de Origem</string>
     <string name="fpv_led_set_hot_point">Definir Ponto de Interesse</string>
     <string name="fpv_led_system_error">Erro de Sistema</string>
     <string name="fpv_led_system_reconstruction">Dispositivo alterado</string>
     <string name="fpv_led_test">Auto-verificação</string> 
-	<string name="fpv_led_usb_is_valid">Activar Modo USB</string>
+    <string name="fpv_led_usb_is_valid">Activar Modo USB</string>
     <string name="fpv_leftmenu_cancel_gohome">Cancelar Voltar a casa</string    <string name="fpv_leftmenu_cancel_gohome_failed">Cancelar Voltar a Casa falhou</string>
     <string name="fpv_leftmenu_cancel_gohome_success">Voltar a casa Cancelado</string>
     <string name="fpv_leftmenu_cgh_tip">Clica para cancelar voltar para casa</string>
