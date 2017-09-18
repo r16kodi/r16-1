@@ -416,7 +416,7 @@
     <string name="camera_log_debug">Modo de depuração</string>
     <string name="camera_mf_demarcate">Calibrar as lentes</string>
     <string name="camera_mf_demarcate_step2">Calibrar as lentes</string>
-<string name="camera_mf_demarcate_step2_tip">"1. Apontar a lente para um alvo distante.
+    <string name="camera_mf_demarcate_step2_tip">"1. Apontar a lente para um alvo distante.
  2. Toque no alvo de alto contraste que fica a 50m (164ft) distante do ponto inicial de calibração."</string>
     <string name="camera_mf_demarcate_tip">Calibra a lente antes de usares isto pela primeira vez. Uma calibraçao incorrecta pode resultar em problemas de focagem nos objectos distantes.</string>
     <string name="camera_mm">M.M</string>
@@ -455,7 +455,7 @@
     <string name="camera_ref_point_square_cross">Quadro e cruz</string>
     <string name="camera_ref_point_standard">Ponto central Standard</string>
     <string name="camera_sd_time">CAPACIDADE</string>
-	   <string name="camera_setting_fn_more">Mais</string>
+    <string name="camera_setting_fn_more">Mais</string>
     <string name="camera_ssd_capacity">CAPACIDADE</string>
     <string name="camera_ssd_saving">Salvar no SSD</string>
     <string name="camera_zoom_focus_t">T</string>
@@ -527,7 +527,7 @@
     <string name="check_gimbal_end_point_stuck">Gimbal não gira.</string>
     <string name="check_gimbal_end_point_stuck_solution">Verificar se o Gimbal está bloqueado</string>
     <string name="check_gimbal_gyroscope">Erro no giróscopio do Gimbal</string>
-	<string name="check_gimbal_gyroscope_solution">Problema no Hardware contacta da DJI.</string>
+    <string name="check_gimbal_gyroscope_solution">Problema no Hardware contacta da DJI.</string>
     <string name="check_gimbal_imu_data_not_match">Gimbal IMU Calibração dos dados não correspondentes</string>
     <string name="check_gimbal_mc_conn">Gimbal não consegue receber dados da NC</string>
     <string name="check_gimbal_mc_conn_solution">Desliga o pin dos 8 fios entre a placa e o drone e verifica se algum pino se perdeu.Contacta a DJI se o problema continuar.</string>
@@ -648,7 +648,7 @@
     <string name="college_get_failed">Falha no acesso à Academia</string>
     <string name="college_instrutional_video">Videos</string>
     <string name="college_title">Academia</string>
-	<string name="confirm">Salvar</string>
+    <string name="confirm">Salvar</string>
     <string name="confirm_stop_transcode">Confirmas que queres parar?</string>
     <string name="connectmc_notallowfpv">Conecta o comando para teres acesso à camera</string>
     <string name="connectmc_notallowfpv_2">Disconecta o comando do drone antes de entrares da teka da camera</string>
@@ -680,7 +680,7 @@
     <string name="dialog_media_preview_del_message">Apagar ficheiro</string>
     <string name="dialog_product_tip_txt1">Tu não partilhaste nada. Partilha agora. </string>
     <string name="dialog_product_tip_txt2">Partilha agora. </string>
-	<string name="dialog_title_cancel_download">Cancelar download</string>
+    <string name="dialog_title_cancel_download">Cancelar download</string>
     <string name="disconnect_gohome_alert_gohome_button">Voltar a casa</string>
     <string name="disconnect_gohome_alert_title">Problemas na imagem. O drone vai voltar ao ponto de origem em:%d secundos.</string>
     <string name="disconnect_gohome_alert_title2">Problemas na imagem. Queres que o drone volte?</string>
@@ -775,7 +775,7 @@
     <string name="error_gps_abnormal">Erro no Gps. Contacta o suporte da DJI se o erro continuar após reiniciares.</string>
     <string name="error_gps_disconnect">GPS disconectado.</string>
     <string name="error_imu_calibration_finished_desc">Reinicia o drone.</string>
-	<string name="error_imu_calibration_finished_title">IMU a calibração está completa.</string>
+    <string name="error_imu_calibration_finished_title">IMU a calibração está completa.</string>
     <string name="error_imu_noconnection_desc">Contacta o suporte da DJI se o erro continuar após reiniciares.</string>
     <string name="error_imu_noconnection_title">O módulo de navegação foi desconectado</string>
     <string name="error_ns_exception_desc">Verifica o estado de redundância</string>
@@ -1386,7 +1386,7 @@
  3. Prepara-te para o pior e se te vires aflito clica em  \"STOP\" em caso de emergência.
 
  4.Lê muito bem os manuais e ve videos no youtube"</string>
-     <string name="fpv_flight_mode_wifi_joystick">Joystick</string>
+    <string name="fpv_flight_mode_wifi_joystick">Joystick</string>
     <string name="fpv_fly_unlimit_dialog_desc">Desbloquear esta area?</string>
     <string name="fpv_fly_unlimit_dialog_negative_btn">Cancelar</string>
     <string name="fpv_fly_unlimit_dialog_positive_btn">OK</string>
