@@ -379,7 +379,7 @@
     <string name="battery_volume_unit">%1$d mAH</string>
     <string name="bigfilm">Video</string>
     <string name="btn_dlg_no">Cancelar</string>
-    <string name="btn_dlg_title">TITLO</string>
+    <string name="btn_dlg_title">TITULO</string>
     <string name="btn_dlg_yes">OK</string>
     <string name="camera_aeunlock">Auto AE desbloquear</string>
     <string name="camera_apture">Abertura</string>
