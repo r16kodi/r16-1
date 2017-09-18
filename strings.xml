@@ -1654,8 +1654,7 @@
     <string name="fpv_led_system_reconstruction">Dispositivo alterado</string>
     <string name="fpv_led_test">Auto-verificação</string> 
 	<string name="fpv_led_usb_is_valid">Activar Modo USB</string>
-    <string name="fpv_leftmenu_cancel_gohome">Cancelar Voltar a casa</string>
-    <string name="fpv_leftmenu_cancel_gohome_failed">Cancelar Voltar a Casa falhou</string>
+    <string name="fpv_leftmenu_cancel_gohome">Cancelar Voltar a casa</string    <string name="fpv_leftmenu_cancel_gohome_failed">Cancelar Voltar a Casa falhou</string>
     <string name="fpv_leftmenu_cancel_gohome_success">Voltar a casa Cancelado</string>
     <string name="fpv_leftmenu_cgh_tip">Clica para cancelar voltar para casa</string>
     <string name="fpv_leftmenu_cl_tip">Clica para cancelar a aterragem</string>
@@ -1675,26 +1674,26 @@
     <string name="fpv_leftmenu_homepoint_now_desc">O ponto de origem será definido de acordo com a corrente posição. Se necessário, ele regressará a este ponto a altitude minima de %1$.1fm(%2$.1fft) de acordo com as definições.</string>
     <string name="fpv_leftmenu_homepoint_other_desc">O ponto de origem será definido de acordo com a corrente posição. A distância da tua posição ao ponto de origem é de: %1$.1fm(%2$.1fft). Definir?</string>
     <string name="fpv_leftmenu_land">Aterrar o drone agora?</string>
-	<string name="fpv_leftmenu_land_desc">Aircraft will land at its current location. Check landing area is clear.</string>
-    <string name="fpv_leftmenu_land_failed">Landing Failed</string>
-    <string name="fpv_leftmenu_land_success">Landed</string>
-    <string name="fpv_leftmenu_takeoff">Take-off?</string>
-    <string name="fpv_leftmenu_takeoff_desc">Ensure it is safe to take-off. Aircraft will rise to %s and hover.</string>
-    <string name="fpv_leftmenu_takeoff_failed">Take-off Failed</string>
-    <string name="fpv_leftmenu_takeoff_success">Take-off Completed</string>
-    <string name="fpv_leftmenu_takeoff_switch">Slide to Take-off</string>
-    <string name="fpv_leftmenu_tip_gohome">Return-to-Home</string>
+    <string name="fpv_leftmenu_land_desc">O drone irá aterrar. Verifica se a área está Limpa.</string>
+    <string name="fpv_leftmenu_land_failed">A Aterragem Falhou</string>
+    <string name="fpv_leftmenu_land_success">Aterrou</string>
+    <string name="fpv_leftmenu_takeoff">Descolar?</string>
+    <string name="fpv_leftmenu_takeoff_desc">Verifica se é seguro Descolar. O drone ira levantar %s e planar.</string>
+    <string name="fpv_leftmenu_takeoff_failed">A descolagem falhou/string>
+    <string name="fpv_leftmenu_takeoff_success">Descolagem com Sucesso</string>
+    <string name="fpv_leftmenu_takeoff_switch">Desliza para Descolar</string>
+    <string name="fpv_leftmenu_tip_gohome">Voltar para Casa</string>
     <string name="fpv_limit_confirm">OK</string>
-    <string name="fpv_lowvoltage_dangerous_desc">Aircraft Landing</string>
-    <string name="fpv_lowvoltage_dangerous_title">Critically Low Voltage Warning</string>
-    <string name="fpv_lowvoltage_warning_desc">Land as soon as possible, or battery will be damaged.</string>
-    <string name="fpv_lowvoltage_warning_title">Critically Low Voltage Warning</string>
-    <string name="fpv_m600_is_not_activite">M600 not Activated. Connect with DJI Assistant 2.</string>
-    <string name="fpv_metering_desc">Exposure</string>
+    <string name="fpv_lowvoltage_dangerous_desc">Drone a Aterrar</string>
+    <string name="fpv_lowvoltage_dangerous_title">Aviso de Voltagem Fraca</string>
+    <string name="fpv_lowvoltage_warning_desc">Aterra o mais depressa possível, ou a bateria pode ficar danificada.</string>
+    <string name="fpv_lowvoltage_warning_title">Aviso de Voltagem Fraca</string>
+    <string name="fpv_m600_is_not_activite">M600 não ativado Connecta ao DJI Assistant 2.</string>
+    <string name="fpv_metering_desc">Exposição</string>
     <string name="fpv_metric">%.1f m</string>
-    <string name="fpv_n3_is_not_activite">N3 not Activated. Connect with DJI Assistant 2.</string>
-    <string name="fpv_novice_takeoff_desc">"Beginner Mode Activated. Altitude and distance limit of 30 meters (100 feet) is in place. 
-Beginner Mode can be turned off in the Main Controller Settings."</string>
+    <string name="fpv_n3_is_not_activite">N3 não activado. Conecta ao DJI Assistant 2.</string>
+    <string name="fpv_novice_takeoff_desc">"Modo Pricipiante Activado. A altitude e a distância têm como limite 30m. 
+O modo de Pricipiante pode ser desligado nas definições"</string>
     <string name="fpv_novice_takeoff_title">Beginner Mode</string>
     <string name="fpv_off">OFF</string>
     <string name="fpv_osd_aperture">F</string>
