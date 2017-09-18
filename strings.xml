@@ -1679,7 +1679,7 @@
     <string name="fpv_leftmenu_land_success">Aterrou</string>
     <string name="fpv_leftmenu_takeoff">Descolar?</string>
     <string name="fpv_leftmenu_takeoff_desc">Verifica se é seguro Descolar. O drone ira levantar %s e planar.</string>
-    <string name="fpv_leftmenu_takeoff_failed">A descolagem falhou/string>
+    <string name="fpv_leftmenu_takeoff_failed">A descolagem falhou</string>
     <string name="fpv_leftmenu_takeoff_success">Descolagem com Sucesso</string>
     <string name="fpv_leftmenu_takeoff_switch">Desliza para Descolar</string>
     <string name="fpv_leftmenu_tip_gohome">Voltar para Casa</string>
